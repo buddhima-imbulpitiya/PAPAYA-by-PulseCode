@@ -7,5 +7,5 @@ Chair cover for posture analysis and feedback
   &nbsp;&nbsp;&nbsp;
   <img src="Images/3D PCB.png" width="30%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="Images/JLC PCB.jpg" width="30%" />
+  <img src="Images/JLC PCB.jpg" width="28%" />
 </p>
