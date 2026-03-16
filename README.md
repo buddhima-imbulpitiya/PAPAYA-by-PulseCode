@@ -1,5 +1,5 @@
 # EN1190 - Engineering Design Project
-## PAPAYA-by-PulseCode
+## PAPAYA by PulseCode
 Chair cover for posture analysis and feedback
 
 <p align="center">
