@@ -1,4 +1,4 @@
-# PAPAYA-by-PulseCode
+## PAPAYA-by-PulseCode
 Chair cover for posture analysis and feedback
 
 <p align="center">
