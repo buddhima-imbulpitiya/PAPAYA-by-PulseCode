@@ -1,0 +1,20 @@
+﻿,Name,Description,Designator,Part Number,Price,Qty
+,865080443007,865080443007 WCAP-ASLI Aluminum Electrolytic Capacitors,"C1, C2","Wurth Elektronik 865080443007, ",0.54,2
+,CL21B104KBCNNNC,CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor,"C3, C4, C5","Samsung Electro-Mechanics CL21B104KBCNNNC, ",122,3
+,SS14,DIODE SCHOTTKY 40V 1A SMA,D1,onsemi SS14,0.29,1
+,150120GS75000,"WURTH ELEKTRONIK - 150080GS75000 - LED, Green, SMD, 0805, 30 mA, 3.2 V, 520 nm","D2, D3","Wurth Elektronik 150080GS75000, ",0.38,2
+,150120RS75000,LED Uni-Color Red 630nm 2-Pin Chip 0805(2012Metric) T/R,D4,Wurth Elektronik 150080RS75000,0.19,1
+,BLM21PG300SN1D,"Chip Ferrite Bead, 0805, 30Ω @ 100MHz, 0.014Ω, , 4A",FB1,Murata BLM21PG300SN1D,0.11,1
+,PJ-102AH,"2.0 x 6.5 mm, 5.0 A, Horizontal, Through Hole, Tapered Pins, Dc Power Jack Connector",J1,,,1
+,S2B-PH-K-S(LF)(SN),"Connector Header Through Hole, Right Angle 2 position","J2, J3, J4, J5, J6, J7",,,6
+,S3B-PH-K-S(LF)(SN),"Connector Header Through Hole, Right Angle 3 position 0.079"" (2.00mm)","J8, J9, J10, J11",,,4
+,S4B-PH-K-S(LF)(SN),"Connector Header Through Hole, Right Angle 4 position 0.079 _2.00mm_","J12, J13, J14",,,3
+,RC0805FR-071KL,"Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel","R1, R2","Yageo Group RC0805FR-071KL, ",0.016,2
+,RC0805JR-071KL,RES SMD 1K OHM 5% 1/8W 0805,R3,Yageo Group RC0805JR-071KL,13.5,1
+,RC0805FR-071ML,"1 MOhms Â±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",R4,,,1
+,RC0805JR-0710KL,"Chip Resistor, 10 KOhm, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel","R5, R6, R7, R8, R9, R10","Yageo Group RC0805JR-0710KL, ",0.09,6
+,RC0805JR-07330RL,"Fixed Resistor, Metal Glaze/thick Film, 0.125W, 330ohm, 150V, 5% +/-Tol, 100ppm/Cel, Surface Mount, 0805","R11, R12",,,2
+,PTS645SM43SMTR92LFS,SWITCH TACTILE SPST-NO 0.05A 12V,SW1,,,1
+,AMS1117-5.0_1,1A LOW DROPOUT VOLTAGE REGULATOR,U1,,,1
+,ED281DT,CONN IC DIP SOCKET 28POS TIN,X1,,,1
+,CSTNE16M0V530000R0,CERAMIC RES 16.0000MHZ 15PF SMD,Y1,Murata CSTNE16M0V530000R0,0.26,1
