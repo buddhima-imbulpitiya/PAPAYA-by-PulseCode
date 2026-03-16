@@ -1,6 +1,12 @@
 # EN1190 - Engineering Design Project
 ## PAPAYA_by_PulseCode
-Chair cover for posture analysis and feedback
+
+> **Posture Analysis and Proactive Alignment for Your Awareness**  
+> A smart cushion that detects poor sitting posture in real-time and provides subtle haptic feedback to encourage healthy sitting habits.
+
+📍 **2nd Runners Up – Brainstorm 2025**  
+🏫 **University of Moratuwa – BM1190 Engineering Design Project**
+
 
 <p align="center">
   <img  src="Images/Final Product 1.png" width="295"   />
