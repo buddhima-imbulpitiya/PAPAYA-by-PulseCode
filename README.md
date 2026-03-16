@@ -32,6 +32,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
   &nbsp;&nbsp;&nbsp;
 </p>
 
+<img  width="50%" src="https://private-user-images.githubusercontent.com/227265315/564273522-ec809940-3b73-4ebc-8ab4-dfdbc30a10e8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM2Nzg3MjYsIm5iZiI6MTc3MzY3ODQyNiwicGF0aCI6Ii8yMjcyNjUzMTUvNTY0MjczNTIyLWVjODA5OTQwLTNiNzMtNGViYy04YWI0LWRmZGJjMzBhMTBlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxNlQxNjI3MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjMwNTAyM2EyZWI1N2JjM2FiMDQ5ZDM3ZTEwNjRlYjcxYmE3MmI2ODUzZGEyZWI5MDQzYzUxOTkwOGVmNzkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6v9Sov5c36kWWeFHFhlBZi8Bh2t_AH5pWvLsVksAkig" />
 **PCB Design :**
 
 <p align="center">
