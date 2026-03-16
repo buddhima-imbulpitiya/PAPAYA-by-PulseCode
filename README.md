@@ -60,8 +60,8 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 
 <p align="center">
 <img src="Images/Enclosure.jpg" width="45%" />
-  &nbsp;&nbsp;&nbsp;
-<img src="Images/PS Enclosure.JPG" width="40%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/PS Enclosure.JPG" width="39%" />
 </p>
  
 
