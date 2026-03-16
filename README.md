@@ -39,7 +39,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 <p align="center">
 <img  width="34%" src="Images/System Architecture.png" />
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;
-<img width="30%" src="Images/Schematic.png" />
+<img width="30.5%" src="Images/Schematic.png" />
 </p>
 
 ---
