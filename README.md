@@ -63,6 +63,13 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Images/PS Enclosure.JPG" width="38.5%" />
 </p>
- 
+
+---
+
+ ## 📑 Documentation
+- [📄 Final Report](Documentation/Final_Report_PAPAYA.pdf)  
+- [📊 Final Presentation](Documentation/Final_Presentation.pdf)  
+- [🎯 Project Pitch Deck](Documentation/PAPAYA_Project_Pitch.pdf)  
+
 
 
