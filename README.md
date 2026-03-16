@@ -58,7 +58,25 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 
 **Enclosure Design :**
 
+<p align="center">
 <img src="Images/Enclosure.jpg" width="45%" />
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/PS Enclosure.JPG" width="38.5%" />
+</p>
 
+---
+
+ ## 📑 Documentation
+- [📄 Final Report](Documentation/Prometheus_Final_Report.pdf)  
+- [📊 Final Presentation](Documentation/Prometheus_Final_Presentation.pdf)  
+- [🎯 Project Pitch Deck](Documentation/Prometheus_Project_Pitch.pdf)  
+
+---
+
+## 👥 Team PulseCode
+
+- [Buddhima Imbulpitiya](https://github.com/buddhima-imbulpitiya)
+- [Mokshan Colombage](https://github.com/mokshan-123)
+- [Abdul Rahman](https://github.com/Abdul-Rahman-bme)
+- [Chaleesha Keerawella](https://github.com/chalee88)
 
