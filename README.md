@@ -20,7 +20,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 - **Vibration motor** for subtle posture alerts
 - **Custom PCB** and **SolidWorks-designed enclosures**
 - **LED battery level indicator**, USB-C charging, 7.4V Li-ion battery
-- Automotive-grade foam cushion
+- **Automotive-grade foam cushion**
 
 ---
 **Final Product :**
