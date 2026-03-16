@@ -53,3 +53,13 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
   &nbsp;&nbsp;&nbsp;
   <img src="Images/JLC PCB.jpg" width="27%" />
 </p>
+
+---
+
+**Enclosure Design :**
+
+<p align="center">
+  <img src="Images/Enclosure.png" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+</p>
+
