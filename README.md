@@ -26,7 +26,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ---
 **Final Product :**
 <p align="center">
-  <img  src="Images/Final Product.png" width="40%"   />
+  <img  src="Images/Final Product.png" width="30%"   />
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="Images/Final Product Labelled.png" width="40%" />
   &nbsp;&nbsp;&nbsp;
