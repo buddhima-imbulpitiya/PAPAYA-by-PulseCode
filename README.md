@@ -59,7 +59,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 **Enclosure Design :**
 
 <p align="center">
-<img src="Images/Enclosure.jpg" width="45%" />
+<img src="Images/Enclosure.JPG" width="45%" />
   &nbsp;&nbsp;&nbsp;
 <img src="Images/PS Enclosure.jpg" width="45%" />
 </p>
