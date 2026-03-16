@@ -76,7 +76,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ## 👥 Team PulseCode
 
 - [Buddhima Imbulpitiya](https://github.com/buddhima-imbulpitiya)
-- [Mokshan Colombage](https://github.com/oshan-imaduwage)
-- [Abdul Rahman](https://github.com/malindailankoon)
-- [Chaleesha Keerawella](https://github.com/ManiiAya)
+- [Mokshan Colombage](https://github.com/mokshan-123)
+- [Abdul Rahman](https://github.com/Abdul-Rahman-bme)
+- [Chaleesha Keerawella](https://github.com/chalee88)
 
