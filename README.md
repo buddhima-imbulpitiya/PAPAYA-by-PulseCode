@@ -4,7 +4,7 @@ Chair cover for posture analysis and feedback
 <p align="center">
   <img width="300"  alt="Untitled design-3" src="https://github.com/user-attachments/assets/61409b57-3b6b-41fc-a129-e87a0a3b8746" />
   &nbsp;&nbsp;&nbsp;
-  <img src="Images/Final Product_Labelled.png" width="44%" />
+  <img src="Images/Final Product_Labelled.png" width="40%" />
   &nbsp;&nbsp;&nbsp;
 </p>
 
