@@ -3,7 +3,7 @@
 Chair cover for posture analysis and feedback
 
 <p align="center">
-  <img  src="Images/Final Product 1.png" width="297"   />
+  <img  src="Images/Final Product 1.png" width="296"   />
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="Images/Final Product_Labelled.png" width="40%" />
   &nbsp;&nbsp;&nbsp;
