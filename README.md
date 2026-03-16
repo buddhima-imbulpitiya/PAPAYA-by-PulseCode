@@ -1,4 +1,4 @@
-## PAPAYA_by_PulseCode
+## P.A.P.A.Y.A._by_PulseCode
 
 > **Posture Analysis and Proactive Alignment for Your Awareness**  
 > A smart cushion that detects poor sitting posture in real-time and provides subtle haptic feedback to encourage healthy sitting habits.
