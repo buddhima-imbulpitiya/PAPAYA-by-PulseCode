@@ -67,9 +67,9 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ---
 
  ## 📑 Documentation
-- [📄 Final Report](Documentation/Final_Report_PAPAYA.pdf)  
-- [📊 Final Presentation](Documentation/Final_Presentation.pdf)  
-- [🎯 Project Pitch Deck](Documentation/PAPAYA_Project_Pitch.pdf)  
+- [📄 Final Report](Documentation/Prometheus_Final_Report.pdf)  
+- [📊 Final Presentation](Documentation/Prometheus_Final_Presentation.pdf)  
+- [🎯 Project Pitch Deck](Documentation/Prometheus_Project_Pitch.pdf)  
 
 
 
