@@ -31,7 +31,9 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
   <img src="Images/Final Product_Labelled.png" width="40%" />
   &nbsp;&nbsp;&nbsp;
 </p>
+
 ---
+
 **System Architecture & Schematic :**
 
 <p align="center">
@@ -39,7 +41,9 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;
 <img width="30%" src="Images/Schematic.png" />
 </p>
+
 ---
+
 **PCB Design :**
 
 <p align="center">
