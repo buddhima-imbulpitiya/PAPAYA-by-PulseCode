@@ -26,10 +26,18 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ---
 **Final Product :**
 <p align="center">
-  <img  src="Images/Final Product 1.png" width="295"   />
+  <img  src="Images/Final Product.png" width="295"   />
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="Images/Final Product_Labelled.png" width="40%" />
   &nbsp;&nbsp;&nbsp;
+</p>
+
+**System Architecture & Schematic**
+
+<p align="center">
+<img  width="35%" src="https://private-user-images.githubusercontent.com/227265315/564273522-ec809940-3b73-4ebc-8ab4-dfdbc30a10e8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM2Nzg3MjYsIm5iZiI6MTc3MzY3ODQyNiwicGF0aCI6Ii8yMjcyNjUzMTUvNTY0MjczNTIyLWVjODA5OTQwLTNiNzMtNGViYy04YWI0LWRmZGJjMzBhMTBlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxNlQxNjI3MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjMwNTAyM2EyZWI1N2JjM2FiMDQ5ZDM3ZTEwNjRlYjcxYmE3MmI2ODUzZGEyZWI5MDQzYzUxOTkwOGVmNzkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6v9Sov5c36kWWeFHFhlBZi8Bh2t_AH5pWvLsVksAkig" />
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img width="31%" src="https://github.com/buddhima-imbulpitiya/PAPAYA-by-PulseCode/issues/2#issue-4083563172" />
 </p>
 
 **PCB Design :**
