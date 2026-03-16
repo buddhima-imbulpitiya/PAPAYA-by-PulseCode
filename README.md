@@ -6,6 +6,8 @@ Chair cover for posture analysis and feedback
   &nbsp;&nbsp;&nbsp;
   <img src="Images/Final Product_Labelled.png" width="30%" />
   &nbsp;&nbsp;&nbsp;
+</p>
+
 PCB
 
 <p align="center">
