@@ -71,5 +71,12 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 - [📊 Final Presentation](Documentation/Prometheus_Final_Presentation.pdf)  
 - [🎯 Project Pitch Deck](Documentation/Prometheus_Project_Pitch.pdf)  
 
+---
 
+## 👥 Team PulseCode
+
+- [Buddhima Imbulpitiya](https://github.com/buddhima-imbulpitiya)
+- [Mokshan Colombage](https://github.com/oshan-imaduwage)
+- [Abdul Rahman](https://github.com/malindailankoon)
+- [Chaleesha Keerawella](https://github.com/ManiiAya)
 
